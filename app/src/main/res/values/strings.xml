@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HabitTracker</string>
+    <string name="StudyInfo">The subjects studied, the duration and the day are: </string>
+</resources>
